@@ -1,1 +1,1 @@
-# Hank's simple vim config file
+# Hank's simple vim config files
